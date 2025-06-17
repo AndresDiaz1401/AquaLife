@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"D:/Documentos/GitHub/AquaLife/AquaLife/Content/NewMap.umap",
+				"D:/Documentos/GitHub/AquaLife/AquaLife/Content/levelPuzzle.umap"
+			]
+		}
+	]
+}
