@@ -5,12 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Lista de cambios no controlados predeterminada",
 			"files": [
+				"D:/Documentos/GitHub/AquaLife/AquaLife/Content/levelPuzzle.umap",
+				"D:/Documentos/GitHub/AquaLife/AquaLife/Content/Levels/PlataformaTrigger_Blueprint.uasset",
+				"D:/Documentos/GitHub/AquaLife/AquaLife/Content/Levels/Exterior.umap",
+				"D:/Documentos/GitHub/AquaLife/AquaLife/Content/BluePrints/Personaje/PlayerBP.uasset",
+				"D:/Documentos/GitHub/AquaLife/AquaLife/Content/Levels/Plataforma.umap",
+				"D:/Documentos/GitHub/AquaLife/AquaLife/Content/Levels/Plataforma2.umap",
+				"D:/Documentos/GitHub/AquaLife/AquaLife/Content/BluePrints/ImplementosDesinfeccion/tapaBocas.uasset",
+				"D:/Documentos/GitHub/AquaLife/AquaLife/Content/Interfaz/Plataforma/UI_PLATAFORMA.uasset",
+				"D:/Documentos/GitHub/AquaLife/AquaLife/Content/BluePrints/Bacteria/BacteriaBP.uasset",
+				"D:/Documentos/GitHub/AquaLife/AquaLife/Content/BluePrints/Personaje/PlayerABP.uasset",
+				"D:/Documentos/GitHub/AquaLife/AquaLife/Content/BluePrints/Tanques/PiscicolaBP.uasset",
 				"D:/Descargas/prueba2/AquaLife/AquaLife/Content/BluePrints/PartesPiscicola/PartesBlower/Parte2Blower/Parte2BlowerBP.uasset",
 				"C:/Users/Lenovo/Desktop/AquaLife/AquaLife/AquaLife/Content/Interfaz/UI_PUZZLE.uasset",
 				"C:/Users/Lenovo/Desktop/AquaLife/AquaLife/AquaLife/Content/Levels/levelPuzzle.umap",
 				"C:/Users/Lenovo/Desktop/Proyecto_Grado/AquaLife/AquaLife/Content/LevelPrueba.umap",
-				"D:/Documentos/GitHub/AquaLife/AquaLife/Content/NewMap.umap",
-				"D:/Documentos/GitHub/AquaLife/AquaLife/Content/levelPuzzle.umap"
+				"D:/Documentos/GitHub/AquaLife/AquaLife/Content/NewMap.umap"
 			]
 		}
 	]
